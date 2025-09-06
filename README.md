@@ -32,7 +32,7 @@ Gjithsej	6672	m²	Gjithsej	6672	m²
 ```
 | Gjendja  | vjetër | Gjendja | re |
 | --------------- | --------------- | --------------- | --------------- |
-| nr.Parc | sip | Nr parc | sip |
+# | nr.Parc | sip | Nr parc | sip |
 | 00182-0 | 6672 | 00182-1 | 1554 |
 | -- | --- | 00182-2 | 5118 |
 | Gjithsej | 6672 | Gjithsej | 6672 |
