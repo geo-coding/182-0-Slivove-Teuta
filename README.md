@@ -23,20 +23,23 @@ Teuta (Naser) Kelmendi
 Blerim (Fehmi) Musliu
 1231543577
 
-Gjendja e vjetër			Gjendja e re		
-Nr.Parc	Siperfaqia		Nr.Parc	Siperfaqia	
-    00182-0	2084	m²	    00397-4	1554	m²
-		                    00397-5	5118	m²
-Gjithsej	6672	m²	Gjithsej	6672	m²
 
 ```
 | Gjendja  | vjetër | Gjendja | re |
 | --------------- | --------------- | --------------- | --------------- |
-# | nr.Parc | sip | Nr parc | sip |
+| nr.Parc | sip | Nr parc | sip |
 | 00182-0 | 6672 | 00182-1 | 1554 |
-| -- | --- | 00182-2 | 5118 |
+| -- | --- |       00182-2 | 5118 |
 | Gjithsej | 6672 | Gjithsej | 6672 |
 
+-------
+
+| Gjendja  | vjetër | Gjendja | re |
+| --------------- | --------------- | --------------- | --------------- |
+| nr.Parc | sip | Nr parc | sip |
+| 00183-0 | 6672 | 00183-1 | 1941 |
+| -- | --- |       00183-2 | 270 |
+| Gjithsej | 6672 | Gjithsej | 6672 |
 # kerkesa
 
 ```
